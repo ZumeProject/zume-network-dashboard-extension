@@ -185,6 +185,168 @@ function dt_network_dashboard_register_action_zume_keys( $actions ){
         'message_pattern' => []
     ];
 
+    // offline
+    $actions['studying_offline_1'] = [
+        'key' => 'studying_offline_1',
+        'label' => 'Studying Offline 1',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_2'] = [
+        'key' => 'studying_offline_2',
+        'label' => 'Studying Offline 2',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_3'] = [
+        'key' => 'studying_offline_3',
+        'label' => 'Studying Offline 3',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_4'] = [
+        'key' => 'studying_offline_4',
+        'label' => 'Studying Offline 4',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_5'] = [
+        'key' => 'studying_offline_5',
+        'label' => 'Studying Offline 5',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_6'] = [
+        'key' => 'studying_offline_6',
+        'label' => 'Studying Offline 6',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_7'] = [
+        'key' => 'studying_offline_7',
+        'label' => 'Studying Offline 7',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_8'] = [
+        'key' => 'studying_offline_8',
+        'label' => 'Studying Offline 8',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_9'] = [
+        'key' => 'studying_offline_9',
+        'label' => 'Studying Offline 9',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_10'] = [
+        'key' => 'studying_offline_10',
+        'label' => 'Studying Offline 10',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_11'] = [
+        'key' => 'studying_offline_11',
+        'label' => 'Studying Offline 11',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_12'] = [
+        'key' => 'studying_offline_12',
+        'label' => 'Studying Offline 12',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_13'] = [
+        'key' => 'studying_offline_13',
+        'label' => 'Studying Offline 13',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_14'] = [
+        'key' => 'studying_offline_14',
+        'label' => 'Studying Offline 14',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_15'] = [
+        'key' => 'studying_offline_15',
+        'label' => 'Studying Offline 15',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_16'] = [
+        'key' => 'studying_offline_16',
+        'label' => 'Studying Offline 16',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_17'] = [
+        'key' => 'studying_offline_17',
+        'label' => 'Studying Offline 17',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_18'] = [
+        'key' => 'studying_offline_18',
+        'label' => 'Studying Offline 18',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_19'] = [
+        'key' => 'studying_offline_19',
+        'label' => 'Studying Offline 19',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_20'] = [
+        'key' => 'studying_offline_20',
+        'label' => 'Studying Offline 20',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_21'] = [
+        'key' => 'studying_offline_21',
+        'label' => 'Studying Offline 21',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_22'] = [
+        'key' => 'studying_offline_22',
+        'label' => 'Studying Offline 22',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_23'] = [
+        'key' => 'studying_offline_23',
+        'label' => 'Studying Offline 23',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_24'] = [
+        'key' => 'studying_offline_24',
+        'label' => 'Studying Offline 24',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_25'] = [
+        'key' => 'studying_offline_25',
+        'label' => 'Studying Offline 25',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_26'] = [
+        'key' => 'studying_offline_26',
+        'label' => 'Studying Offline 26',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_27'] = [
+        'key' => 'studying_offline_27',
+        'label' => 'Studying Offline 27',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_28'] = [
+        'key' => 'studying_offline_28',
+        'label' => 'Studying Offline 28',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_29'] = [
+        'key' => 'studying_offline_29',
+        'label' => 'Studying Offline 29',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_30'] = [
+        'key' => 'studying_offline_30',
+        'label' => 'Studying Offline 30',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_31'] = [
+        'key' => 'studying_offline_31',
+        'label' => 'Studying Offline 31',
+        'message_pattern' => []
+    ];
+    $actions['studying_offline_32'] = [
+        'key' => 'studying_offline_32',
+        'label' => 'Studying Offline 32',
+        'message_pattern' => []
+    ];
+
 
 
     $actions['leading_1'] = [
